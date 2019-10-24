@@ -9,6 +9,9 @@
     },
     "keywords": [],
     "author": "",
-    "license": "ISC"
-
+    "license": "ISC",
+    "homepage": "https://rholmes69hss.github.io/website2/index.html",
+    "dependencies": {
+        "gh-pages": "^2.1.1"
+    }
 }
